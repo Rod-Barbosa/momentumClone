@@ -1,4 +1,4 @@
-# Scrimba Frontend Career Path - (Game of War - Module 07)
+# Scrimba Frontend Career Path - (Momentum Chrome Extension - Module 07)
 
 This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Game of War)](https://scrimba.com/learn/frontend).
 
@@ -21,22 +21,17 @@ This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Game of
 
 ### The challenge
 
-A game of war: Each player draws a card, highest value wins. At the end of the deck, the player with most points winds
+Clone of the famous chrome extension "momentum"
 
-Users should be able to Code/Understand:
+After this Challenge I should be able to Code/Understand:
 
-- CALLBACKS
-- Functions as first-class objects
-- Built own .filter()
-- PROMISES
-- Three states(pensing, fullfiled, rejected)
-- .then() and chaining
-- WAR
-- Deck of Cards API
-- Styling & Layout
-- Algorithms
-- UX improvements
-- ASYNC/AWAIT
+- Clients/Servers
+- Requests/Response
+- JSON
+- fetch/.then()
+- Requests(methods, headers, body, URL)
+- REST API Design (params, query)
+- Async Javascript (callbacks, promises, async/await)
 
 ### Screenshot
 
