@@ -35,11 +35,7 @@ After this Challenge I should be able to Code/Understand:
 
 ### Screenshot
 
-![](./img/start.png)
-![](./img/deck.png)
-![](./img/drawCard.png)
-![](./img/keepScore.png)
-![](./img/end.png)
+![](./imagem.pnd)
 
 ### Links
 
