@@ -1,4 +1,4 @@
-# Scrimba Frontend Career Path - (Game of Wat - Module 07)
+# Scrimba Frontend Career Path - (Game of War - Module 07)
 
 This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Game of War)](https://scrimba.com/learn/frontend).
 
