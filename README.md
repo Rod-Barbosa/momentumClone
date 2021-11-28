@@ -35,7 +35,7 @@ After this Challenge I should be able to Code/Understand:
 
 ### Screenshot
 
-![](./imagem.pnd)
+![](./imagem.png)
 
 ### Links
 
