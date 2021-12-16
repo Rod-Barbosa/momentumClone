@@ -1,6 +1,6 @@
 # Scrimba Frontend Career Path - (Momentum Chrome Extension - Module 07)
 
-This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Game of War)](https://scrimba.com/learn/frontend).
+This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Chrome Extension)](https://scrimba.com/learn/frontend).
 
 ## Table of contents
 
